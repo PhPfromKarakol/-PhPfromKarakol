@@ -1,5 +1,7 @@
 # -PhPfromKarakol
 <iframe src="https://giphy.com/embed/1k1XguTD1uwe1k3e2H" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ateyo-the-best-ateyo-1k1XguTD1uwe1k3e2H">via GIPHY</a></p>
+
+<img src="https://giphy.com/gifs/Ateyo-the-best-ateyo-1k1XguTD1uwe1k3e2H" alt=""/>
 # 💫 About Me:
 🔭 I’m currently searching for internships<br>👯 I’m looking to collaborate on Web Dev Projects<br>🌱 I’m currently learning Front-End and Back-End<br>⚡ Fun fact - I am a big fan of Borussia Dortmund
 
